@@ -1,0 +1,120 @@
+body {
+  display: flex;
+  justify-content: center;
+}
+
+.card1 {
+  background-image: url(../images/fondo-card1.png);
+  display: flex;
+  justify-content: center;
+  width: 506px;
+  height: 328px;
+}
+
+.recuadro-contenido-card-1 {
+  width: 454px;
+  height: 279px;
+  margin-top: 20px;
+}
+
+.recuadro-fecha-card1 {
+  display: flex;
+  gap: 15px;
+}
+
+.recuadro-fecha-card1 h1 {
+  color: #ffffff;
+  width: 123px;
+  height: 14px;
+  font-family: Gilroy-Light;
+  font-weight: 400;
+  font-size: 11.78px;
+  line-height: 100%;
+  letter-spacing: -0.33px;
+}
+
+.recuadro-fecha-card1 h2 {
+  color: #ffffff;
+  width: 123px;
+  height: 14px;
+  font-family: Gilroy-Medium;
+  font-weight: 400;
+  font-size: 11px;
+  line-height: 100%;
+}
+
+.recuadro-lugar-card1 {
+  color: #ffffff;
+  width: 74px;
+  height: 47px;
+}
+
+.recuadro-lugar-card1 h1 {
+  width: 74px;
+  height: 27px;
+  font-family: Lato;
+  font-weight: 700;
+  font-size: 22.77px;
+  line-height: 100%;
+  letter-spacing: 0%;
+}
+
+.recuadro-lugar-card1 h2 {
+  width: 55px;
+  height: 22px;
+  font-family: Lato;
+  font-weight: 400;
+  font-size: 11.39px;
+  line-height: 22.77px;
+  letter-spacing: 1.63px;
+  margin-top: -20px;
+}
+
+.recuadro-texto-info-card1 {
+  color: #ffffff;
+  width: 451px;
+  height: 91px;
+  font-family: Gilroy-Light;
+  font-weight: 400;
+  font-size: 17.08px;
+  line-height: 109.00000000000001%;
+  letter-spacing: 0%;
+}
+
+.recuadro-tiempo-card1 {
+  width: 105px;
+  height: 54px;
+}
+
+.recuadro-tiempo-grados-card1 {
+  display: flex;
+  width: 79px;
+  height: 33px;
+  gap: 10px;
+}
+
+.recuadro-tiempo-grados-card1 img {
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 34px;
+  height: 28px;
+  padding-top: 13px;
+}
+
+.recuadro-tiempo-grados-card1 h1 {
+  width: 37px;
+  height: 31px;
+  font-family: Lato;
+  font-weight: 700;
+  font-size: 26.29px;
+  line-height: 100%;
+  letter-spacing: -1.84px;
+}
+
+.recuadro-tiempo-texto-card1 {
+  width: 110px;
+  height: 20px;
+  font-family: Gilroy-Light;
+  font-weight: 400;
+  font-size: 17px;
+}
